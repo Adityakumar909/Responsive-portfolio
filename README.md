@@ -5,7 +5,7 @@ Welcome to my personal portfolio website! This website showcases my skills, proj
 
 ## 🌐 Live Demo
 
-🔗 **Hosted Link:** [Add your portfolio link here]
+🔗 **Hosted Link:** [(https://adityakumar909.github.io/Responsive-portfolio/)]
 
 ## 📌 Features
 - Responsive and modern UI
